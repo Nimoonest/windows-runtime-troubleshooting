@@ -1,0 +1,7 @@
+interface:
+  display_name: "Windows Runtime Troubleshooting"
+  short_description: "Recover common Windows runtime failures"
+  default_prompt: "Use $windows-runtime-troubleshooting to diagnose a Windows runtime or local tool failure."
+
+policy:
+  allow_implicit_invocation: true
